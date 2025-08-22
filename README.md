@@ -1,1 +1,3 @@
 This project is an advanced machine learning application focused on analyzing the performance of the pre-trained YOLOv12 model for food recognition and calorie estimation. The core objective is to accurately identify specific food items and determine their approximate caloric content through an intuitive graphical user interface (GUI).
+
+The application is built to be user-friendly, allowing anyone to easily get insights into their meals. It leverages the power of the YOLOv8 model to provide real-time food detection, and then calculates an estimated calorie count based on a curated dataset. This integration of computer vision with a simple interface makes the process of dietary tracking efficient and accessible.
